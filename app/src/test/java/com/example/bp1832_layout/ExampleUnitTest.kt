@@ -1,4 +1,4 @@
-package com.example.bp_2layout
+package com.example.bp1832_layout
 
 import org.junit.Test
 
